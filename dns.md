@@ -10,7 +10,7 @@
    
    - ## Replacement:
    A single vowel, consonant, or number from your domain is replaced with a different letter.  
-    - ## Omission:
+  - ## Omission:
     A single vowel or consonant from your domain is omitted or excluded.
     - ## Transposition:
     Two letters or numbers from your domain are switched in placement, and all other characters are in the appropriate position.
@@ -21,8 +21,8 @@
             01001011 01101110 01101111 01110111 01000010 01100101 00110100
             while CnowBe4 in binary is: 
             01000011 01101110 01101111 01110111 01000010 01100101 00110100
-            These examples are only one bit apart in binary language. Therefore, a hacker may buy Cnowbe4.com for the potential  of a bitsquatting attack.
-    - ## Insertion: 
+            These examples are only one bit apart in binary language. Therefore, a hacker may buy Cnowbe4.com for the potential        of a bitsquatting attack.
+   - ## Insertion: 
     An additional number or letter is added somewhere within your domain.
    
    - ## Vowel-swap: 
