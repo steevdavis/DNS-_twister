@@ -6,12 +6,9 @@
    - ## Repetition: A single vowel or consonant from the actual domain is repeated consecutively.
         Hackers often buy such domains for cybersquatting, or more specifically, for typosquatting purposes. An uneducated user   could overlook this double letter during a phishing attack, or anyone could accidentally "typo" their way to a malicious website.
    
-   - ## Replacement: A single vowel, consonant, or number from your domain is replaced with a different letter.
-    
+   - ## Replacement: A single vowel, consonant, or number from your domain is replaced with a different letter.  
     - ## Omission: A single vowel or consonant from your domain is omitted or excluded.
-    
     - ## Transposition: Two letters or numbers from your domain are switched in placement, and all other characters are in the appropriate position.
-    
     - ## Bitsquatting: These domains use character replacements based on characters that are one "bit" (i.e., 0 or 1) apart when the domain is translated into the binary language used by computers.
         This attack method consists of buying domains that are likely to be a result of a random memory error, causing a computer to make a binary "typo" during the DNS lookup.
             For example, KnowBe4 in binary is:
@@ -19,15 +16,12 @@
             while CnowBe4 in binary is: 
             01000011 01101110 01101111 01110111 01000010 01100101 00110100
             These examples are only one bit apart in binary language. Therefore, a hacker may buy Cnowbe4.com for the potential  of a bitsquatting attack.
-    
     - ## Insertion: An additional number or letter is added somewhere within your domain.
    
    - ## Vowel-swap: A vowel existing in your domain is replaced with a different vowel.
     
-  
   - ## Addition: An additional letter is added to the end of your domain name. 
-    
-  
+   
   - ## Subdomain: Your domain is broken by a period, creating an entirely new domain.
         To the inattentive or untrained eye, this could appear to be a subdomain of your real domain. 
     
