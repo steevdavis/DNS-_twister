@@ -34,7 +34,8 @@
   - ## Subdomain:
   Your domain is broken by a period, creating an entirely new domain.
         To the inattentive or untrained eye, this could appear to be a subdomain of your real domain.     
-    - ## Homoglyph: 
+
+- ## Homoglyph: 
     Using foreign characters to spell seemingly recognizable domains. Punycode is the system used to convert characters that can't be written in ASCII (American Standard Code for Information Interchange) into an ASCII encoding.
         These foreign characters can look very similar to letters in the English alphabet. When hovering over a URL, some browsers do not display these foreign characters as their English equivalent; therefore, further masking these unfamiliar characters.
 
